@@ -9,13 +9,14 @@
 
 ## dreams 개요
   - 프로젝트 이름: Dreams Club⚾
+  - 사이트: https://itwill.xyz/dreams/
   - 프로젝트 개발 기간: 2023.07-2023.09
   - 개발 도구 및 언어:
-    1. Front-End: HTML, CSS, JavaScript, jQuery
-    2. Back-End: Java JDK11, Spring5.0
-    3. App: Eclipse 2023-03, SQL Developer23.1.0
-    4. DataBase: Oracle Database11g
-    5. Server: apache Tomcat 9.0.75
+    1 Front-End: HTML, CSS, JavaScript, jQuery
+    2 Back-End: Java JDK11, Spring5.0
+    3 App: Eclipse 2023-03, SQL Developer23.1.0
+    4 DataBase: Oracle Database11g
+    5 Server: apache Tomcat 9.0.75
   - 프로젝트 팀원: 방용환(팀장), 강민경(부팀장), 김예지, 문형섭, 오진서, 이소영 
 
 ## dreams 사이트 사용 방법
